@@ -69,7 +69,7 @@ const Edit = () => {
             aria-label="Default select example"
           >
             <option selected>Selecione</option>
-            <option value="Alta">Alta</option> // Alta, Média e Baixa
+            <option value="Alta">Alta</option>
             <option value="Média">Média</option>
             <option value="Baixa">Baixa</option>
           </select>
@@ -84,7 +84,7 @@ const Edit = () => {
             aria-label="Default select example"
           >
             <option selected>Selecione</option>
-            <option value="Fazer">Fazer</option> // Fazer, Fazendo, Feito
+            <option value="Fazer">Fazer</option>
             <option value="Fazendo">Fazendo</option>
             <option value="Feito">Feito</option>
           </select>
